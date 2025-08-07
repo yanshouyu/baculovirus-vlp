@@ -1,6 +1,14 @@
 # baculovirus-vlp
 Implementation of Hu &amp; Bentley's article published on Chemical Engineering Science ([DOI: 10.1016/S0009-2509(99)00579-5](https://doi.org/10.1016/S0009-2509(99)00579-5)).
 
+## For Contributors
+
+This repository uses nbstripout to keep notebooks clean. After cloning:
+
+```bash
+pip install nbstripout
+nbstripout --install
+```
 
 ## References
 
